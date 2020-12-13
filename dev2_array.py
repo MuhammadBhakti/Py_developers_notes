@@ -1,6 +1,6 @@
 import numpy as np 
 a = 45.7
-
+##
 ## Membuat array
 print("===Array 1D===")
 # 1. Membuat array array
