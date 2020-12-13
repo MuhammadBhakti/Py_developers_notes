@@ -1,5 +1,5 @@
 """ Belajar Python """
-
+#
 # Definisi data
 a = 10 # data inisial
 
