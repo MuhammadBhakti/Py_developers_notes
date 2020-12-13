@@ -1,5 +1,5 @@
 """ Belajar Python """
-#
+# tes git
 # Definisi data
 a = 10 # data inisial
 
