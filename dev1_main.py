@@ -24,6 +24,18 @@ print(data_float, "Datanya bertipe", type(data_float))
 print(data_str, "Datanya bertipe", type(data_str))
 print(data_bool, "Datanya bertipe", type(data_bool))
 
+#Comment
+#Ini comment
+"""ini juga comment"""
+
+# short cut di Visual studio code
+"""
+ALT + SHIFT + panah bawah = duplicate
+ALT + panah bawah = geser bawah
+CTRL + K + C = comment
+
+Ok ntar ditambah lagi
+"""
 
 
 
