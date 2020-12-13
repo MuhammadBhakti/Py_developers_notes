@@ -42,6 +42,17 @@ print(arr_2e)
 
 
 ## Akses array
-print(arr_1[2])
+arr_1 = np.arange(10)
+print(arr_1[2] ) #index array no 3 untuk 1D array
+
+arr_2 = np.array([[1,2,3,4,5],[10,20,30,40,50]]) #2D Array
+print(arr_2[0][2]) #index array pertama nomer ke 3
+print(arr_2[1][3]) #index array ke-2 dengan nomer ke 4
+
+## Reshape
+arr = np.arange(30).reshape(2,3,5) #3D array 
+print(arr[0][1][0])
 
 ## Operasi aritmatika array
+### Filter dengan slice
+
