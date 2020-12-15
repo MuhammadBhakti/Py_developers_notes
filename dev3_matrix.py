@@ -23,3 +23,4 @@ print(mat_a)
 #6
 mat_a = np.linspace(1,10,num=25).reshape(5,5)
 print(mat_a)
+
